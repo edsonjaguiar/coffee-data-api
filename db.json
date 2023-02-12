@@ -1,0 +1,88 @@
+{
+    "coffees": [
+        {
+            "id": 1,
+            "title": "Black",
+            "description": "Black coffee is a very popular drink around the world, and is enjoyed by many for its strong, rich coffee infusion. It is made from the roasted and ground beans of a coffee plant, and is usually prepared with hot water. The result is a dark, intense drink with a distinctive and striking flavor.",
+            "ingredients": ["Coffee"],
+            "image": "https://cdn.pixabay.com/photo/2010/12/13/10/12/background-2485_960_720.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Cappucino",
+            "description": "Cappuccinos are known for being creamier and less bitter than other coffee drinks, making them a popular choice for those who like a smoother taste. They are also decorated with cinnamon, cocoa powder, or other ingredients to add flavor and color.",
+            "ingredients": ["Espresso", "Steamed milk", "Milk foam"],
+            "image": "https://images.pexels.com/photos/11901524/pexels-photo-11901524.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 3,
+            "title": "Espresso",
+            "description": "Espresso is a drink prepared from finely roasted and ground coffee beans, which are then pressed with hot water to produce a concentrated, strong coffee. Espresso is widely known for its thick cream and intense aroma, and is commonly served in small cups to make the most of its concentrated flavor.",
+            "ingredients": ["Coffee Beans", "Hot water"],
+            "image": "https://images.pexels.com/photos/533403/pexels-photo-533403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 4,
+            "title": "Americano",
+            "description": "It is known for being less strong and sweeter than traditional espresso, and is a popular choice for those who want a less full-bodied coffee. Americano is also a great choice for those who want to enjoy the flavor of coffee, but without the excess caffeine.",
+            "ingredients": ["Diluted espresso", "Hot water"],
+            "image": "https://images.pexels.com/photos/8340104/pexels-photo-8340104.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 5,
+            "title": "Latte Macchiato",
+            "description": "Latte Macchiato is known for its mild sweetness and milk flavoring, making it a popular choice for those looking for a sweeter alternative to traditional coffee. In addition, the drink is often added flavors such as cinnamon, vanilla, or chocolate to enhance its flavor.",
+            "ingredients": ["Steamed milk", "Espresso"],
+            "image": "https://images.pexels.com/photos/13562911/pexels-photo-13562911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 6,
+            "title": "Mocha",
+            "description": "Today, Mocha coffee is a popular drink all over the world and can be found in many cafes and restaurants. . It is a great option for those cold days or for those who want a drink with an additional chocolate flavor. In addition, Mocha coffee is also a good option for those who crave the energy of coffee, but prefer something a little sweeter and creamier.",
+            "ingredients": ["Espresso", "Steamed milk", "Hot chocolate syrup"],
+            "image": "https://images.pexels.com/photos/14410700/pexels-photo-14410700.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 7,
+            "title": "Mocchiato",
+            "description": "The name Mocha refers to the port of Mocha on the Ethiopian coast, a major port for coffee exports in the 18th century. The coffee is known for its creaminess and chocolate flavor, which is complemented by the strong presence of coffee.",
+            "ingredients": ["Espresso", "Milk foam"],
+            "image": "https://cdn.pixabay.com/photo/2015/02/19/23/28/coffee-642835_960_720.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Café au lait",
+            "description": "The name Mocha refers to the port of Mocha on the Ethiopian coast, a major port for coffee exports in the 18th century. The coffee is known for its creaminess and chocolate flavor, which is complemented by the strong presence of coffee.",
+            "ingredients": ["Drained coffee", "Hot Milk"],
+            "image": "https://cdn.pixabay.com/photo/2014/05/27/15/44/cafe-au-lait-355610_960_720.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Irish",
+            "description": "Irish coffee is a classic and popular drink known for its combination of espresso, Irish cream and whiskey. It is usually served hot and is known for its unique combination of strong coffee flavors, smooth cream and the touch of whiskey that gives it a sweet, warm taste.",
+            "ingredients": ["Coffee", "Whiskey", "Sugar", "Cream"],
+            "image": "https://images.pexels.com/photos/14416477/pexels-photo-14416477.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": 10,
+            "title": "Guayoyo",
+            "description": "Guayoyo coffee is originally from Venezuela and is known for its mild acidity and chocolatey taste. It is grown in the Aragua region and is considered one of the best coffees in Latin America. It is known for its creamy texture and intense aroma, making it a popular choice among coffee lovers.",
+            "ingredients": ["Coffee", "Traditional", "Hot Water"],
+            "image": "https://images.pexels.com/photos/1727123/pexels-photo-1727123.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 11,
+            "title": "Affogato",
+            "description": "Affogato coffee is a traditional Italian drink that combines hot coffee and cream gelato. The word 'affogato' means 'drowned' in Italian, which refers to the act of dipping the gelato into the coffee.",
+            "ingredients": ["Espresso", "Ice cream"],
+            "image": "https://cdn.pixabay.com/photo/2017/08/05/17/02/espresso-2584668_960_720.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Flat white",
+            "description": "The Flat white coffee is a popular drink that originated in Australia and New Zealand. It is made from a cut espresso with creamy, dense steamed milk. The result is a drink with an even layer of milk foam on the surface, which allows the aroma of the coffee to blend perfectly with the smooth, creamy flavor of the milk.",
+            "ingredients": ["Espresso", "Steamed milk"],
+            "image": "https://cdn.pixabay.com/photo/2016/08/10/06/48/coffee-1582555_960_720.jpg"
+        }
+    ]
+}
