@@ -90,6 +90,48 @@
             "description": "Frappuccino has become a popular choice for anyone who wants to enjoy a sweet, iced coffee drink, especially on hot summer days. It is served in large cups with lids and straws, making it a practical option for taking on the go.",
             "ingredients": ["Espresso", "Milk", "Sugar Syrup"],
             "image": "https://cdn.pixabay.com/photo/2014/01/16/00/51/ice-cream-246161_1280.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Cortado",
+            "description": "This drink is popular in Spain and many Latin American countries, where it is often served as part of breakfast or as a snack during the day. Cut coffee is an ideal option for those who like the taste of espresso, but prefer a milder drink than plain coffee.",
+            "ingredients": ["Espresso", "Steamed milk"],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Caf%C3%A9_cortado"
+        },
+        {
+            "id": 15,
+            "title": "Ristretto",
+            "description": "Ristretto coffee is a strong, concentrated espresso beverage that originated in Italy. The name Ristretto means 'restricted' or 'limited' in Italian, which refers to the fact that less water is used in the extraction of the coffee compared to a traditional espresso.",
+            "ingredients": ["Coffee Beans", "Hot water"],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Ristretto_in_a_glass.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Bulletproof Coffee",
+            "description": "The idea behind Bulletproof Coffee is that by adding healthy fat to the drink, it can help increase energy, improve concentration, and increase satiety. The butter used in the drink is usually unsalted, organic butter from grass-fed cows, and coconut oil or MCT is added to provide medium-chain fatty acids.",
+            "ingredients": ["Freshly brewed coffee", "Butter", "Coconut oil"],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bulletproof_Coffee_IMG_20170806_1755.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Vienna Coffee",
+            "description": "Vienna Coffee is a coffee-based drink that originated in Vienna, Austria, in the 19th century. It is made with espresso coffee and whipped cream, usually served in a glass coffee cup so that the layers of the drink can be appreciated.",
+            "ingredients": ["Espresso", "Whipped cream"],
+            "image": "https://cdn.pixabay.com/photo/2020/03/03/10/06/coffee-4898230_960_720.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Red Eye",
+            "description": "Red Eye Coffee is a popular drink among coffee lovers who need an extra dose of caffeine to stay alert during the day. It is made with a shot of espresso and a cup of regular coffee. The name 'Red Eye' is believed to be a reference to the red appearance of the eyes of those who stay up all night, but it may also be an allusion to the stimulating effect the drink has on the body and mind.",
+            "ingredients": ["Coffee", "Espresso"],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Black_coffee_with_saucer_and_spoon.jpg"
+        },
+        {
+            "id": 19,
+            "title": "Turkish Coffee",
+            "description": "Turkish coffee is known for its strong, aromatic flavor, which is accentuated by the addition of sugar. It is a drink that can be enjoyed alone or accompanied by sweets and desserts, such as baklava or lokum (also known as 'Turkish delight'). Turkish coffee is more than just a drink - it is an important aspect of Turkish culture and is often served during social gatherings, wedding ceremonies and other important celebrations. It is a drink that brings people together and creates a sense of community around the act of sharing a cup of coffee.",
+            "ingredients": ["Water", "Sugar", "Fine coffee powder"],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Turkish_Coffee_with_Crema.jpg"
         }
     ]
 }
