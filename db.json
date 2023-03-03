@@ -83,6 +83,13 @@
             "description": "The Flat white coffee is a popular drink that originated in Australia and New Zealand. It is made from a cut espresso with creamy, dense steamed milk. The result is a drink with an even layer of milk foam on the surface, which allows the aroma of the coffee to blend perfectly with the smooth, creamy flavor of the milk.",
             "ingredients": ["Espresso", "Steamed milk"],
             "image": "https://cdn.pixabay.com/photo/2016/08/10/06/48/coffee-1582555_960_720.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Frappucino",
+            "description": "Frappuccino has become a popular choice for anyone who wants to enjoy a sweet, iced coffee drink, especially on hot summer days. It is served in large cups with lids and straws, making it a practical option for taking on the go.",
+            "ingredients": ["Espresso", "Milk", "Sugar Syrup"],
+            "image": "https://cdn.pixabay.com/photo/2014/01/16/00/51/ice-cream-246161_1280.jpg"
         }
     ]
 }
